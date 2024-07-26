@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "1Y5wP39mF1Sg7vUt0HfbLHFYcs2CtbOA25CSOe93kfoqdyo4/WVQTwCigKDqoTImqNkuMXO6ykTT1FLoGQpsHg==",
+  "success": true,
+  "projectFilePath": "E:\\saba folder\\term 4002\\algorithm\\assignment\\w2\\my code\\2_order_of_courses\\2_order_of_courses\\2_order_of_courses.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\saba\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}

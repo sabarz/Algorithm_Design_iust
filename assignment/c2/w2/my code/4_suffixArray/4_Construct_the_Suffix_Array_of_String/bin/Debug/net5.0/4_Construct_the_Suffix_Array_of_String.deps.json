@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "4_Construct_the_Suffix_Array_of_String/1.0.0": {
+        "runtime": {
+          "4_Construct_the_Suffix_Array_of_String.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "4_Construct_the_Suffix_Array_of_String/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

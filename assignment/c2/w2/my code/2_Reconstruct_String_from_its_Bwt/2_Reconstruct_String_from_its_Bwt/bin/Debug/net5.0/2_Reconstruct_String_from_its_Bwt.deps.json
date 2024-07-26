@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "2_Reconstruct_String_from_its_Bwt/1.0.0": {
+        "runtime": {
+          "2_Reconstruct_String_from_its_Bwt.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_Reconstruct_String_from_its_Bwt/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "2_adding_exits_to_maze/1.0.0": {
+        "runtime": {
+          "2_adding_exits_to_maze.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "2_adding_exits_to_maze/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
